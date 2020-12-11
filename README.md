@@ -1,2 +1,2 @@
 # JSON-placeholders
-JSON placeholders to simulate a AJAX call using Fetch API
+JSON placeholders to simulate a AJAX call request and response, using Fetch API
